@@ -1,0 +1,5 @@
+::1 - - [01/Apr/2023:10:23:36 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+[0mGET /favicon.ico [33m404[0m 2.079 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.410 ms - 150[0m
+[0mGET /users/profile [33m404[0m 0.686 ms - 152[0m
+[0mGET /users/profile [33m404[0m 0.558 ms - 152[0m
